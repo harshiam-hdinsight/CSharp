@@ -104,10 +104,6 @@
       <Project>{df397efc-91db-4911-9971-c509926fc288}</Project>
       <Name>Microsoft.Bot.Connector</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Samples\EchoBot\Microsoft.Bot.DiversityInclusionBot.csproj">
-      <Project>{D2253234-1279-486E-8A63-D8C3424E0525}</Project>
-      <Name>Microsoft.Bot.DiversityInclusionBot</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Samples\SimpleAlarmBot\Microsoft.Bot.Sample.SimpleAlarmBot.csproj">
       <Project>{a8ba1066-5695-4d71-abb4-65e5a5e0c3d4}</Project>
       <Name>Microsoft.Bot.Sample.SimpleAlarmBot</Name>
